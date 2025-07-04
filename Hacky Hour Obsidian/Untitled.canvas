@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a25116d428866bc0","x":-380,"y":-300,"width":540,"height":200,"type":"text","text":"kksfngknfsgk\n\n[[Fruits - Map of Content]]"},
+		{"id":"6e1bb80252ee5000","x":360,"y":0,"width":404,"height":107,"type":"text","text":"[[Food - MoC]]"}
+	],
+	"edges":[
+		{"id":"7e51931a252945fd","fromNode":"a25116d428866bc0","fromSide":"right","toNode":"6e1bb80252ee5000","toSide":"left","label":"can be eaten"}
+	]
+}
